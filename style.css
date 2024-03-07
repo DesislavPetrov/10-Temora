@@ -158,7 +158,7 @@ div.welcome-content {
 div.toggle-legend-box {
   float: right;
     right: 15px;
-    top: -471px;
+    margin-top: -471px;
     position: relative;
     color: #000000;
 }
