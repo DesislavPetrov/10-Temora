@@ -207,7 +207,7 @@ div#legend-items > div{
     cursor: pointer;
     margin-top: 22px;
     vertical-align: top;
-    line-height: 18px;
+    line-height: 10px;
 }
 
 .mapboxgl-popup-close-button:hover {
